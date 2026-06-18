@@ -4,23 +4,8 @@ A Shiny app for visualizing KEGG pathways colored by your differential expressio
 
 ## Demo
 
-```{=html}
-<!--
-  The line below embeds demo.mp4 from this repo. GitHub plays MP4 inline in most
-  browsers. If it ever shows up as a plain link instead of a player, the most
-  reliable fix is to open the README in GitHub's web editor and drag demo.mp4
-  into it — GitHub will replace the src with a guaranteed-playable attachment URL.
--->
-```
-<p align="center">
+https://github.com/user-attachments/assets/70b19820-322d-48e2-a625-26acf9953f35
 
-<video src="demo.mp4" controls width="100%">
-
-Your browser can't play the video here, <a href="demo.mp4">download demo.mp4</a> to watch it.
-
-</video>
-
-</p>
 
 ## What it does
 
